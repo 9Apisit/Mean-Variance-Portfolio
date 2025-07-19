@@ -54,6 +54,16 @@ This project explores advanced concepts in **mean-variance portfolio theory**, f
 * Asset weights in each strategy
 * Risk & return metrics
 * Sharpe ratio of tangency portfolio
+---
+## 📄 Files
+
+- [Report.pdf](./Report.pdf) — รายงานสรุปการวิเคราะห์
+- [R_Script.R](./R_Script.R) — สคริปต์ R สำหรับคำนวณและสร้างกราฟ
+
+## 🖥️ Run the script
+
+```R
+source("R_Script.R")
 
 ---
 
