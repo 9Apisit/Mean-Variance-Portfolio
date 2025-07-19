@@ -57,8 +57,8 @@ This project explores advanced concepts in **mean-variance portfolio theory**, f
 ---
 ## 📄 Files
 
-- [Report.pdf](./Report.pdf) — รายงานสรุปการวิเคราะห์
-- [R_Script.R](./R Script.R) — สคริปต์ R สำหรับคำนวณและสร้างกราฟ
+- [Report.pdf](./Report.pdf) — Analysis report
+- [R_Script.R](./R_Script.R) — R script for calculations and plots
 
 
 ## 📚 References
