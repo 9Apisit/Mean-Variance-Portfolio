@@ -1,8 +1,3 @@
-# Mean-Variance-Portfolio
-ได้เลยครับ นี่คือตัวอย่าง **README.md** สำหรับโปรเจคนี้ ซึ่งเขียนแบบชัดเจน มืออาชีพ เหมาะสำหรับใส่ใน GitHub:
-
----
-
 # 📈 Mean-Variance Portfolio Analysis
 
 This project explores advanced concepts in **mean-variance portfolio theory**, focusing on how adding an asset affects the efficient frontier, constructing efficient and tangency portfolios, and applying the two-fund separation theorem.
